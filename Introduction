@@ -34,3 +34,6 @@ Ans: 1. SCCM Stands for microsoft system center configuration manager.
      2. SCCM basically database and packages are deployed from sccm to the machines. also os is deploying from machines.
      3. SCCM provides identificatin and malware protection.
      4. It manages software deployement and patch updation.
+
+9. Have you installed any server on your windows machine(windows server 2019) and how to use 2019 server?
+Ans: 
