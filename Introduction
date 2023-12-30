@@ -1,11 +1,12 @@
+
 HSBC software development pvt ltd., pune   DOJ-26th sep 2022  Desktop support engineer.
 
-Que 1: Introduction.
+Que 1. Introduction.
 Ans : Hi Hello, my name is abhishek kanawade. I am from sangamner,maharashtra. I have completed B.E electronics from amrutvahini college of sangamner. And this is my first job i joined as 
       a fresher. I have completed 1.3 years in hsbc. and it was great experience with hsbc. I learned varios things. I worked on varios projects like lenevo service camp. M365 migration 
       activity, Dell monitor deployement activity, 405 grads onboarding activity. I learned varios things from our team and one of most important thing that is micro management. `
 
-Que2: Primary work.
+2. Primary work.
       1. I am doing hardware and softwares tickets. having good knowledge of troublshooting. In hardware tickets i am resolving various kinds of issue like if touchpad and keyboard and 
          not working we are updating the drivers and bios. Also looking in varios kinds of issue like power on issue, usb port not working issue charger not working issue, camera not working
          laptop overheating issue, charging port not working issue, headset issues. Also giving desk support for users for dell monitor connectivity issue.
@@ -18,22 +19,24 @@ Que2: Primary work.
                            2. press F10 for save. Then press F12 for boot. After that select image deployement mothod PXE.(pre execution)
                            3. After that select region IN. go to option and select GLT laptop.
 
-Que 6. what is pxe.
+ 3. what is pxe.
 ans: Preboot execution environment.
      1. PXE enables to load an operation system over network connection. it helps to deployed os from sccm to machines.
      2. It loads image on your system.
      3. PXE is faster that pendrive or CD.
 
-Que 7. what is proton.
+5. what is proton.
 Ans: 1. proton is a web- based inventory tool. which monitors the health of machines like is it off-network.
      2. we can pull report from the proton.
      3.     
          
-Que 8: what is SCCM and how packages are deployed on machines.
+6. what is SCCM and how packages are deployed on machines.
 Ans: 1. SCCM Stands for microsoft system center configuration manager.
      2. SCCM basically database and packages are deployed from sccm to the machines. also os is deploying from machines.
      3. SCCM provides identificatin and malware protection.
      4. It manages software deployement and patch updation.
 
-9. Have you installed any server on your windows machine(windows server 2019) and how to use 2019 server?
+7. Have you installed any server on your windows machine(windows server 2019) and how to use 2019 server? and what is the use ?
 Ans: 
+
+8. office 365 and office 2016  IQ and diff between 2016 and 365?
