@@ -46,5 +46,14 @@ Ans:
 12.neworkinh question what is vlan,which vlan network you are using in organisation
 13.Which 3 major tickets you handled
 14.why you leaving previous organisation
-15.
 
+15. About VDI
+Ans: Tyeps: 1. Enhanced vdi - 16 GB RAM, 200GB HDD
+            2. Standard vdi - 8 GB
+            3. Virtual vdi- azure
+            4. stateless vdi - cost is more.
+
+  Process for requset vdi:
+  1. Jira portal is using for raising vdi request. requset needs to raise prior 7 days after 7 days vdi access will get from team.
+
+ Director: Director tool is using for assigning vdi, monitoring vdi status, montoring logs of vdi, also checking status of vdi
