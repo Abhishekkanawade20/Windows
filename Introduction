@@ -57,3 +57,17 @@ Ans: Tyeps: 1. Enhanced vdi - 16 GB RAM, 200GB HDD
   1. Jira portal is using for raising vdi request. requset needs to raise prior 7 days after 7 days vdi access will get from team.
 
  Director: Director tool is using for assigning vdi, monitoring vdi status, montoring logs of vdi, also checking status of vdi
+
+16. About Ad did you laste work on AD. what you are work
+
+17. WHat is use of DHCP
+
+18. What is DNS Types of DNS And DNS Record.
+And : 1. A (Address) Record: A record that maps a domain name to an IPv4 address.
+      2. AAAA (IPv6 Address) Record: Similar to the A record but maps a domain name to an IPv6 address.
+      3. CNAME (Canonical Name) Record: Maps an alias (or alternate) domain name to the canonical (primary) domain name. This is often used when multiple domain names point to the same IP address.
+      4. MX (Mail Exchange) Record: Specifies the mail servers responsible for receiving email on behalf of a domain. It points to the domain names of the mail servers.
+      5. PTR (Pointer) Record: Used in reverse DNS lookups to map an IP address to a domain name. PTR records are used primarily for troubleshooting and security purposes.
+      6. NS (Name Server) Record: Specifies the authoritative name servers for a domain. These servers store the DNS records for the domain and are responsible for providing DNS information about the domain to other DNS servers.
+
+
