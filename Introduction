@@ -58,7 +58,14 @@ Ans: Tyeps: 1. Enhanced vdi - 16 GB RAM, 200GB HDD
 
  Director: Director tool is using for assigning vdi, monitoring vdi status, montoring logs of vdi, also checking status of vdi
 
-16. About Ad did you laste work on AD. what you are work
+16. About Ad did you laste work on AD. what you are work?
+Ans: 1. In previous organisation i am responsible for creating user and adding permission and access
+     2. I am using windows 2016 server
+     3. To create user. AD --> create user --> from tools select active directory users and computers --> got to OU(organizational unit) Ou needs to created --> 
+        right click --> New --> select user --> fil the user and information, also create password --> In windows password is expires every 42 days --> 
+     4. Once user created you can add other information also we can set account expiration date.
+     5. 
+    
 
 17. WHat is use of DHCP
 
