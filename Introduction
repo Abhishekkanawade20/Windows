@@ -36,6 +36,26 @@ Ans: 1. SCCM Stands for microsoft system center configuration manager.
      3. SCCM provides identificatin and malware protection.
      4. It manages software deployement and patch updation.
 
+      What could be the possible reason of failing software installation of software center:
+      a) Network connectivity issue from end use, the device might not able to reach SCCM DP, hence package not downloading from dp in device
+         and hence causing the problem. packeg installation directory: C:\Windows\CCMCache
+      b) 
+         
+
+      Steps to resolve software installation issue if any user is raising ticket.
+      a) - First repair the SCCM, Open cmd with admin and run below exe.
+         - C:\Windows\CCM\ccmrepair.exe
+         - It will take some time
+
+      b) - Then run 11 policies from control panel. control panel > configuration manager > select cycle and run
+         - Then open cmd with admin and run gpupdate /force command
+         - after this restart the system
+
+      c) If above options are not working check the SCCM log, use below path and check the logs from CMTrace tool.
+         C:\Windows\CCM\CMTrace.exe, Also from error code you can troubleshoot the problem
+
+      d) Also you can delete the packge which downloaded in C:\Windows\CCMCache, and retry the download application from software center.
+
 7. Have you installed any server on your windows machine(windows server 2019) and how to use 2019 server? and what is the use ?
 Ans: 
 
