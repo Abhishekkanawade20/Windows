@@ -39,7 +39,7 @@ Ans: 1. SCCM Stands for microsoft system center configuration manager.
       What could be the possible reason of failing software installation of software center:
       a) Network connectivity issue from end use, the device might not able to reach SCCM DP, hence package not downloading from dp in device
          and hence causing the problem. packeg installation directory: C:\Windows\CCMCache
-      b) 
+      b) The cache size of SCCM is not enought to download packeg from DP, check the cache size, control panel > configuration manager > cache.
          
 
       Steps to resolve software installation issue if any user is raising ticket.
